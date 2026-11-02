@@ -1,246 +1,226 @@
 
 <!-- ========================================= -->
-<!--              AASTHA PATHAK                -->
-<!--          DEVELOPER PORTFOLIO              -->
+<!--             AASTHA PATHAK                 -->
 <!-- ========================================= -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=210&section=header&text=AASTHA%20PATHAK&fontSize=48&fontColor=E8F7F5&fontAlignY=42&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%20ENTHUSIAST&descSize=13&descColor=66E3D4&descAlignY=65&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:6D28D9&height=220&section=header&text=Aastha%20Pathak&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1000&color=66E3D4&center=true&vCenter=true&width=650&lines=Building+digital+experiences.;Engineering+scalable+web+applications.;Exploring+the+intersection+of+AI+%26+Web.;Turning+ideas+into+working+products." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Full+Stack+Developer;Exploring+AI-Powered+Solutions;Turning+Ideas+Into+Real+Products;Always+Learning+%26+Building" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
 
-<a href="https://github.com/aasthapathak19">
-<img src="https://img.shields.io/badge/GITHUB-0B0F14?style=flat-square&logo=github&logoColor=white"/>
+<a href="mailto:aasthapathak78@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/aastha-pathak-721193322">
-<img src="https://img.shields.io/badge/LINKEDIN-0B0F14?style=flat-square&logo=linkedin&logoColor=66E3D4"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:aasthapathak78@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-0B0F14?style=flat-square&logo=gmail&logoColor=66E3D4"/>
+<a href="https://github.com/aasthapathak19">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://leetcode.com/u/aasthapathak19/">
-<img src="https://img.shields.io/badge/LEETCODE-0B0F14?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=aasthapathak19&style=flat-square&color=66E3D4&label=PROFILE+VIEWS" />
-
-</div>
-
-<br/>
-
-## 01 / INTRODUCTION
-
-<img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthapathak19&layout=compact&hide_border=true&bg_color=0B0F14&title_color=66E3D4&text_color=E8F7F5&langs_count=6" />
-
-Hi, I'm **Aastha Pathak** — a Computer Science Engineering student and Full Stack Developer passionate about building modern, scalable and intelligent digital products.
-
-I enjoy working across the stack, from crafting intuitive interfaces to engineering backend systems and integrating AI-powered capabilities.
-
-- 🎓 B.Tech CSE | Class of 2028
-- 💻 Full Stack Development
-- 🤖 Exploring AI-powered applications
-- ⚙️ Backend systems & real-time technologies
-- 🧠 DSA & problem solving
-
-<br clear="right"/>
-
----
-
-## 02 / TECHNICAL ARSENAL
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,python&theme=dark" />
-
-<br/><br/>
-
-**FRONTEND ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-**BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
-
-<br/><br/>
-
-**DEVELOPER TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/State%20Management-Zustand%20%7C%20Redux-20252C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Authentication-JWT%20%7C%20NextAuth-20252C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Real--Time-Socket.IO-20252C?style=flat-square"/>
-<img src="https://img.shields.io/badge/Deployment-Docker-20252C?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=aasthapathak19&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
 
 </div>
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 👩‍💻 About Me
 
-*Things I've designed, engineered and brought to life.*
+```javascript
+const aastha = {
+    name: "Aastha Pathak",
+    role: "Full Stack Developer",
+    education: "B.Tech Computer Science Engineering",
+    university: "Maharishi Markandeshwar University",
+    graduation: 2028,
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+    interests: [
+        "Full Stack Development",
+        "AI-Powered Applications",
+        "Backend Engineering",
+        "Problem Solving",
+        "System Design"
+    ],
 
-<h3>01. ResumeIQ</h3>
+    currentlyBuilding: [
+        "Scalable Web Applications",
+        "Real-Time Platforms",
+        "AI-Powered Products"
+    ],
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&text=ResumeIQ&fontSize=30&fontColor=66E3D4&color=101820&animation=fadeIn"/>
+    mindset: "Learn, Build, Improve, Repeat 🚀"
+};
+```
 
-**AI-Powered Resume Analyzer**
+- 💻 Full Stack Developer passionate about building scalable and user-focused applications.
+- 🤖 Interested in integrating AI into modern web applications.
+- ⚡ Experienced with real-time communication, authentication, payment integration and cloud services.
+- 🧠 Strengthening Data Structures & Algorithms and problem-solving skills.
+- 🚀 Believe in learning by building real-world projects.
 
-An intelligent resume evaluation platform that analyzes resumes against job descriptions and generates ATS scores with actionable feedback.
+---
 
-**Highlights**
-- AI-driven resume evaluation
-- ATS scoring and feedback
-- Cloud resume storage
-- Responsive React interface
-- Zustand state management
+## 🛠️ Tech Stack & Tools
 
-**Stack:** React · TypeScript · Tailwind · Zustand · Puter.js
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
+
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+
+### Backend Development
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+### Database & Authentication
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<br/>
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/NextAuth-Authentication-7C3AED?style=flat-square"/>
+
+### Tools & Technologies
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 1. ResumeIQ — AI-Powered Resume Analyzer
 
 <a href="https://github.com/aasthapathak19/ResumeIQ">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-66E3D4?style=for-the-badge&logo=github&logoColor=0B0F14"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-ResumeIQ-7C3AED?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-<h3>02. Rydex</h3>
+An AI-powered resume analyzer that evaluates resumes against job descriptions and generates ATS scores with actionable feedback.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&text=RYDEX&fontSize=30&fontColor=66E3D4&color=101820&animation=fadeIn"/>
+**Key Features:**
+- AI-powered resume evaluation and ATS scoring.
+- Job description-based resume analysis.
+- Browser-based authentication and cloud resume storage.
+- Responsive UI with reusable React components.
+- Global state management using Zustand.
 
-**Real-Time Ride Booking Platform**
+**Tech Stack:** React.js • TypeScript • Tailwind CSS • Zustand • Puter.js
 
-A full-stack ride-booking application featuring live location tracking, real-time ride updates, payments and communication.
+---
 
-**Highlights**
-- Live location tracking
-- Socket.IO real-time updates
-- Razorpay payment integration
-- NextAuth authentication
-- Docker containerization
+<div align="center">
 
-**Stack:** Next.js · Node.js · MongoDB · Socket.IO · Leaflet · Razorpay · Docker
+### 2. Rydex — Real-Time Ride Booking Platform
 
 <a href="https://github.com/aasthapathak19/Rydex">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-66E3D4?style=for-the-badge&logo=github&logoColor=0B0F14"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-Rydex-7C3AED?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+</div>
 
-<h3>03. JobNet</h3>
+A real-time ride-booking platform designed to provide ride creation, live tracking, payments and communication.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=90&text=JOBNET&fontSize=30&fontColor=66E3D4&color=101820&animation=fadeIn"/>
+**Key Features:**
+- Real-time ride status updates using Socket.IO.
+- Live location tracking with Leaflet.
+- Secure authentication using NextAuth.
+- Razorpay payment integration.
+- Real-time communication using ZegoCloud.
+- Docker and Docker Compose containerization.
 
-**Full Stack Job Portal**
+**Tech Stack:** Next.js • React.js • Node.js • MongoDB • Socket.IO • Leaflet • Razorpay • ZegoCloud • Docker
 
-A MERN-based platform connecting job seekers and employers through job discovery, applications and job listing management.
+---
 
-**Highlights**
-- Job search and application management
-- Employer job listing management
-- JWT authentication and authorization
-- Resume and profile uploads with Cloudinary
-- Redux Persist and Framer Motion
+<div align="center">
 
-**Stack:** MongoDB · Express.js · React.js · Node.js · JWT · Cloudinary
+### 3. JobNet — Full Stack Job Portal
 
 <a href="https://github.com/aasthapathak19/JobNet">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-66E3D4?style=for-the-badge&logo=github&logoColor=0B0F14"/>
+<img src="https://img.shields.io/badge/VIEW_PROJECT-JobNet-7C3AED?style=for-the-badge&logo=github"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
+
+A full-stack MERN job portal connecting candidates and employers through a dynamic job management platform.
+
+**Key Features:**
+- Job searching and application functionality.
+- Employer job listing management.
+- Secure authentication and authorization using JWT and bcrypt.
+- Resume and profile picture uploads using Multer and Cloudinary.
+- Persistent state management using Redux Persist.
+- Interactive UI animations using Framer Motion.
+
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js • JWT • bcrypt • Cloudinary • Redux Persist
 
 ---
 
-## 04 / GITHUB ACTIVITY
+## 🏆 Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aasthapathak19&show_icons=true&hide_border=true&bg_color=0B0F14&title_color=66E3D4&icon_color=66E3D4&text_color=E8F7F5&ring_color=66E3D4" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthapathak19&hide_border=true&background=0B0F14&stroke=26343C&ring=66E3D4&fire=66E3D4&currStreakLabel=66E3D4&sideLabels=E8F7F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9AA5" />
+<img src="https://img.shields.io/badge/🥈_2nd_Position-Frontend_Fusion-FFD700?style=for-the-badge"/>
 
 </div>
 
----
-
-## 05 / RECOGNITION
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02ND%20POSITION-FRONTEND%20FUSION-66E3D4?style=for-the-badge&labelColor=0B0F14"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GOOGLE-SOLUTION%20CHALLENGE%20PARTICIPANT-20252C?style=for-the-badge&logo=google&logoColor=66E3D4"/>
-
-</div>
-
-- **Frontend Fusion:** Secured 2nd position in a multi-round, time-bound frontend development competition.
-- **Google Solution Challenge:** Participated in developing and presenting a software solution based on challenge requirements.
+- **2nd Position — Frontend Fusion:** Secured second position in a multi-round, time-bound frontend development competition involving rapid project development and presentation before a judging panel.
+- **Google Solution Challenge — Participant:** Participated in the Google Solution Challenge and developed/presented a software solution based on the challenge requirements.
 
 ---
 
-## 06 / CURRENT DIRECTION
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2500&pause=900&color=66E3D4&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Every+Day;Exploring+AI+%2B+Full+Stack;Engineering+Better+Solutions;Focused+on+Continuous+Growth" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aasthapathak19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=FFFFFF" />
 
-</div>
-
-| Focus Area | Direction |
-|:--|:--|
-| Development | Full Stack Engineering |
-| AI | AI-powered web applications |
-| Problem Solving | Data Structures & Algorithms |
-| Engineering | Backend & scalable systems |
-
----
-
-<div align="center">
-
-## LET'S BUILD SOMETHING MEANINGFUL.
-
-*Curiosity drives innovation. Consistency turns it into engineering.*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthapathak19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=FFFFFF" />
 
 <br/>
 
-<a href="mailto:aasthapathak78@gmail.com">
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-66E3D4?style=for-the-badge&logo=minutemailer&logoColor=0B0F14"/>
-</a>
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=aasthapathak19&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
 
-<br/><br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B0F14&height=65&section=footer&text=DESIGNED%20WITH%20CURIOSITY%20%26%20BUILT%20WITH%20CODE&fontSize=12&fontColor=66E3D4"/>
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+## 🌱 My Developer Philosophy
+
+<div align="center">
+
+### "Great things are built one commit at a time."
+
+*Code with purpose. Learn with curiosity. Build with consistency.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:312E81,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
